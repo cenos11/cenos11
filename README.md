@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cenos11
 - 👀 I’m interested in process automation, data analysis, and visualization.
-- 🌱 I’m currently learning Python. I have quite a bit of experience in MATLAB, but I don't use that as much anymore.
+- 🌱 I’m currently working in Python. I have quite a bit of experience with MATLAB, but I don't use that as much anymore.
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... LinkedIn: https://www.linkedin.com/in/chris-enos-p-e/
 
